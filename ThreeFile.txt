@@ -1,3 +1,6 @@
 mannguyen - add text
 hoanam028 - add text
+<<<<<<< HEAD
 mannguyen - add text
+=======
+>>>>>>> e4ffa059a5859a13acaa78140236aa4488a990d3
